@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let CurrentBal = 10000; // balance  in dollars
 let Pincode = 1999;
